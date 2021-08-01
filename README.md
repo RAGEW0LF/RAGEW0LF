@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RAGEW0LF
-- 👀 I’m interested in  CYBER SECURITY
-- 🌱 I’m currently learning INFORMATION SCIENCE IN BMS COLLAGE
-- 📫 How to reach me yashass.is18@bmsce.ac.in
+- :wave: Hi, I’m @RAGEW0LF
+- :eyes: I’m interested in  CYBERSECURITY
+- :seedling: I’m currently learning INFORMATION SCIENCE IN BMS COLLAGE
+- :mailbox: How to reach me yashass.is18@bmsce.ac.in
+- :man_student: Anspringe to be an Ethical Hacker 
